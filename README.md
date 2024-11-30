@@ -19,6 +19,6 @@
 
 > `$ pip install -r requirements.txt`
 
-**Запуск автотестов и создание HTML-отчета о покрытии**
+**Запуск автотестов и создание HTML-отчета о покрытии, отчёт в htmlcov/index.html**
 
 >  `$ pytest --cov=praktikum --cov-report=html`
